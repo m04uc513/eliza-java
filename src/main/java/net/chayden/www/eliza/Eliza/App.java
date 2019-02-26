@@ -3,6 +3,7 @@ package net.chayden.www.eliza.Eliza;
 /**
  * Hello world!
  *
+ * made by A.Fujita 2019/02/26
  */
 public class App 
 {
