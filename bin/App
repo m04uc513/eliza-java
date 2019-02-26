@@ -1,0 +1,7 @@
+#!/bin/sh
+
+CMD=net.chayden.www.eliza.Eliza.App
+JAR=eliza-java-1.0-SNAPSHOT.jar
+PROG=target/${JAR}
+
+java -cp ${PROG} ${CMD} $*
