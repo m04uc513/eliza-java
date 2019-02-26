@@ -1,1 +1,3 @@
-mvn exec:java -Dexec.mainClass="net.chayden.www.eliza.Eliza.App"
+mvn exec:java \
+-Dexec.mainClass="net.chayden.www.eliza.Eliza.ElizaApp" \
+-Dexec.args="script test"
